@@ -1,0 +1,72 @@
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# =========================
+# C++ build output
+# =========================
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+Debug/
+Release/
+out/
+cmake-build-*/
+
+# =========================
+# Compiled binaries
+# =========================
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.pch
+*.idb
+*.ipch
+*.tlog/
+*.lastbuildstate
+
+# =========================
+# CMake generated files
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# =========================
+# Logs and temporary files
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# IDEs
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# OS
+# =========================
+desktop.ini
