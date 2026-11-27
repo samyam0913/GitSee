@@ -11,7 +11,7 @@ Rather than relying entirely on command-line explanations, the application uses 
 <!-- Replace these paths with your actual screenshots -->
 
 <p align="center">
-  <img src="screenshots/main-interface.png" alt="Git Visualization Main Interface" width="850">
+  <img src="screenshots/gitsee_demo.webp" alt="GitSee - Git Visualization Main Interface" width="850">
 </p>
 
 <p align="center">
@@ -58,30 +58,6 @@ The application follows a modular C++ architecture:
 - **IDE:** Microsoft Visual Studio
 - **Data Structures:** Doubly Linked Lists, Maps, Graphs, Trees
 - **Build Environment:** Visual Studio / MSBuild
-
-## Screenshots
-
-
-<h2 align="center">Application Preview</h2>
-
-<p align="center">
-  <img src="screenshots/gitsee_demo.webp"
-       alt="GitSee - Git Visualization"
-       width="800">
-</p>
-
-
-### Main Interface
-
-![Main Interface](screenshots/main-interface.png)
-
-### Commit and Branch Visualization
-
-![Commit and Branch Visualization](screenshots/git-visualization.png)
-
-### Interactive Operations
-
-![Interactive Operations](screenshots/operations.png)
 
 ## Project Structure
 
