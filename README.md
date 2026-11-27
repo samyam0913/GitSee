@@ -1,8 +1,8 @@
-# Git Visualization
+# GitSee
 
 **An interactive C++ desktop application for understanding Git concepts through real-time graphical visualization.**
 
-Git Visualization is an educational tool designed to make learning Git easier, particularly for beginners. It allows users to enter Git commands through a graphical interface and observe how operations affect commit history, branches, and repository structures.
+GitSee is an educational tool designed to make learning Git easier, particularly for beginners. It allows users to enter Git commands through a graphical interface and observe how operations affect commit history, branches, and repository structures.
 
 Rather than relying entirely on command-line explanations, the application uses visual representations and fundamental data structures to demonstrate how Git workflows operate.
 
