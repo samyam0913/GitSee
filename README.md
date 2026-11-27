@@ -112,7 +112,7 @@ Git-Visualizer/
 2. Navigate to the project directory:
 
    ```bash
-   cd YOUR_REPOSITORY
+   cd GitSee
    ```
 
 3. Open `Git_visualisation.sln` using Visual Studio.
