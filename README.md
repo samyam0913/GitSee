@@ -80,7 +80,21 @@ The project uses a modular architecture, separating GUI logic, input handling, p
 
 ## Screenshots
 
-<!-- Add application screenshots here -->
+
+<h2 align="center">Application Preview</h2>
+
+<p align="center">
+  <img src="screenshots/main-interface.png"
+       alt="Git Visualizer Main Interface"
+       width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/gitsee_demo.webp"
+       alt="GitSEE Git Visualization"
+       width="800">
+</p>
+
 
 ## Future Improvements
 
@@ -88,7 +102,3 @@ The project uses a modular architecture, separating GUI logic, input handling, p
 - Add additional Git concepts and operations.
 - Improve cross-platform compatibility.
 - Add documentation and testing.
-
-## License
-
-See the LICENSE file for licensing information.
